@@ -1,0 +1,11 @@
+# _config.yml
+title: Game Engineering Assignment Descriptions
+description: A collection of game engineering assignment descriptions from my past EAE Game Engineering courses.
+theme: minima   # GitHub Pages has this built-in
+
+defaults:
+  - scope:
+      path: ""        # apply to all files in the repo
+      type: "pages"   # apply to Markdown files (not posts)
+    values:
+      layout: default
