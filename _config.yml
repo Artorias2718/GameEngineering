@@ -8,4 +8,4 @@ defaults:
       path: ""        # apply to all files in the repo
       type: "pages"   # apply to Markdown files (not posts)
     values:
-      layout: default
+      layout: no-header
