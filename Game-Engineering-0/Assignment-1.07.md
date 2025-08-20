@@ -1,4 +1,7 @@
-# Assignment1.07 - Debug Logging / Asserts
+---
+---
+
+# Assignment 1.07 - Debug Logging / Asserts
 
 ## Primary Requirements
 

@@ -1,4 +1,7 @@
-# Assignment1.06.02 - GameObject / GameObjectController / Interfaces
+---
+---
+
+# Assignment 1.06.02 - GameObject / GameObjectController / Interfaces
 
 ## Primary Requirements
 

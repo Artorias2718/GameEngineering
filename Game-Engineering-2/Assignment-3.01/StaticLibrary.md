@@ -1,3 +1,6 @@
+---
+---
+
 # Static Library Example
 
 - In addition to executable files we will also deal with "libraries" in this class. There are both "dynamic" and "static" libraries Dynamic libraries can be loaded at run-time, which means:

@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 3.01 - Introduction to Project Files & Animation
 
 - Before trying to work on this assignment you should study and understand the following example programs:

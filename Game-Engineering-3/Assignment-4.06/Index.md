@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 4.06: Octree - Part 2
 
 ## Requirements

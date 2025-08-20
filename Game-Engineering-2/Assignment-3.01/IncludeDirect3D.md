@@ -1,3 +1,6 @@
+---
+---
+
 # Include Direct3D
 
 - Direct3D is the graphics component of DirectX, functionality that Microsoft provides to give game programmers low level hardware access with a consistent interface (although Microsoft has changed this so that it is part of the core Windows API rather than separate for games). In our class we will use version 11 of Direct3D. (There is a newer version, Direct3D 12, but at the moment it is not being marketed as a replacement for 11 but rather as an alternative.)

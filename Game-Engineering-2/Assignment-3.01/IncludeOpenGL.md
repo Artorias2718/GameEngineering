@@ -1,3 +1,6 @@
+---
+---
+
 # Include OpenGL
 
 - OpenGL is an open standard that fulfills the same role as Direct3D but for any platform that supports it (Direct3D is only available on proprietary Microsoft platforms). Because of its open and inclusive nature it is more complicated than Direct3D to figure out which features of OpenGL are supported on a given piece of hardware. In our class we will target functionality similar to DirectX 11. This will require us to use what OpenGL calls "extensions": Microsoft only provides a very basic (and very old) version of OpenGL that is built into Windows, and any modern features are implemented by the graphics hardware drivers as functions that can be queried to see if they're available and loaded dynamically if they are.

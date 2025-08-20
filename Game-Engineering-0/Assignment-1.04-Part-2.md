@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 1.04 - Part 2 - Understanding caching and working with bits
 
 ## Objective

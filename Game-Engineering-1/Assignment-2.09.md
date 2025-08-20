@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 2.09 - Swept Separating Axis Collision Check
 
 ## Primary Requirements

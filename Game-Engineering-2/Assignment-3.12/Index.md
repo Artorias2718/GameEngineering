@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 3.12 - Texture Files
 
 ## Requirements

@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 5.12: Neural Networks
 
 ## Requirements
@@ -18,8 +21,9 @@
 - Submit both an executable AND a video showing the app performing at what you consider to be "fully trained".
 
 Tips:
-  - Use TanH activation functions for hidden layers.
-  - Neural Networks work better when the input range matches the output range. For example: we normally express "heading" in degrees with the range of [-180° to 0° to 180°]. Instead, use the range [-1.0 to 0.0 to 1.0].
+
+- Use TanH activation functions for hidden layers.
+- Neural Networks work better when the input range matches the output range. For example: we normally express "heading" in degrees with the range of [-180° to 0° to 180°]. Instead, use the range [-1.0 to 0.0 to 1.0].
   - Use a Bias neuron on the input layer and hidden layers.
 - [Neural Network basics](https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Neural_Network_Basics)
 - [Neural Network tanks tutorial](http://www.ai-junkie.com/ann/evolved/nnt1.html)

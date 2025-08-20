@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 3.10: Effect Files
 
 - Create a human-readable Effect file format

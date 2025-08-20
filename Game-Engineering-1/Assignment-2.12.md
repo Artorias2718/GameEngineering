@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 2.12 - Profiling & Optimization
 
 ## Primary Requirements

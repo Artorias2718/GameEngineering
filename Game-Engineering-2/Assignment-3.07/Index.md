@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 3.07: Maya Exporter Plugin
 
 ## Requirements

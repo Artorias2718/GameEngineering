@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 4.07: Third-Person Camera
 
 ## Requirements

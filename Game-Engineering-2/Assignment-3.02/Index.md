@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 3.02 - Introduction to Lua
 
 - Before trying to work on this assignment you should study and understand the following example program:

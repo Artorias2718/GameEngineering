@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 5.10: Minimax
 
 ## Requirements

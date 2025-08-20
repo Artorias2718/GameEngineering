@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 3.04 - Vertex Color & Indexed Drawing
 
 ## Requirements

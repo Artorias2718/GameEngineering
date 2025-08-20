@@ -1,3 +1,6 @@
+---
+---
+
 # Assignment 5.04: Path Finding
 
 ## Requirements

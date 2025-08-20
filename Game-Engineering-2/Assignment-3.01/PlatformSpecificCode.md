@@ -1,3 +1,6 @@
+---
+---
+
 # Platform-Specific Code Example
 
 - One of the classic programming guidelines is to not duplicate code. When dealing with multiple platforms this is still important but it becomes more difficult because sometimes it is impossible not to have two different implementations that do the same thing. Whenever possible you should try to create an API that hides the differences between platforms from users of your engine so that they only have to write code that will work everywhere, but when working on the engine itself there are two different methods we will use in this class to deal with multiple platforms.

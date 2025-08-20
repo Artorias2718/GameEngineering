@@ -1,3 +1,6 @@
+---
+---
+
 # Using Lua
 
 - In our class we will use Lua 5.2.3 (newer versions are available). Although the material in this example will give a quick introduction focused on what we will use for our class you are strongly encouraged to consult the official documentation throughout the class when you have a question. The reference manual can be found hereLinks to an external site..
